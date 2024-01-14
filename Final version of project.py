@@ -1,4 +1,4 @@
-#           A project of class 12th on
+# Author: Shreyansh Jain
 #   topic of student managment system using mysql 
 
 
